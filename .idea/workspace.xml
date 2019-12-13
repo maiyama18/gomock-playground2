@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48b54e00-9bdc-4d9f-ada5-4ea277218a21" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usecase/person.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usecase/person_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="45" column="95" selection-start-line="45" selection-start-column="95" selection-end-line="45" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/Cellar/go/1.13/libexec/src/reflect/type.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23443">
+              <caret line="1379" selection-start-line="1379" selection-end-line="1379" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository/person.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../golang/mock/gomock/controller.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3094">
+              <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../golang/mock/gomock/callset.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/person.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13/libexec" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/usecase.go" />
+        <option value="$PROJECT_DIR$/repository/repository.go" />
+        <option value="$PROJECT_DIR$/usecase/usecase.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/usecase/city.go" />
+        <option value="$PROJECT_DIR$/repository/city.go" />
+        <option value="$PROJECT_DIR$/mocks/mock_city.go" />
+        <option value="$PROJECT_DIR$/usecase/city_test.go" />
+        <option value="$PROJECT_DIR$/model/city.go" />
+        <option value="$PROJECT_DIR$/repository/person.go" />
+        <option value="$PROJECT_DIR$/usecase/person.go" />
+        <option value="$PROJECT_DIR$/usecase/person_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-27" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1633" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gomock-playground2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gomock-playground2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gomock-playground2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gomock-playground2" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gomock-playground2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gomock-playground2" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gomock-playground2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gomock-playground2" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gomock-playground2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gomock-playground2" type="462c0819:PsiDirectoryNode" />
+              <item name="usecase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/usecase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestPersonUsecase_ChangeName in github.com/maiyama18/gomock-playground2/usecase">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomock-playground" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/maiyama18/gomock-playground" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gomock-playground" />
+      <working_directory value="$PROJECT_DIR$/usecase" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/maiyama18/gomock-playground/usecase" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCityUsecase_SumPopulations$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPersonUsecase_ChangeName in github.com/maiyama18/gomock-playground2/usecase" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gomock-playground" />
+      <working_directory value="$PROJECT_DIR$/usecase" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/maiyama18/gomock-playground2/usecase" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestPersonUsecase_ChangeName$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestPersonUsecase_ChangeName in github.com/maiyama18/gomock-playground2/usecase" />
+        <item itemvalue="Go Test.TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCityUsecase_SumPopulations_in_github_com_maiyama18_gomock-playground_usecase - 2019.11.14 at 19h 55m 45s.xml">
+      <configuration name="TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCityUsecase_SumPopulations_in_github_com_maiyama18_gomock-playground_usecase - 2019.11.14 at 19h 55m 52s.xml">
+      <configuration name="TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCityUsecase_SumPopulations_in_github_com_maiyama18_gomock-playground_usecase - 2019.11.14 at 19h 56m 10s.xml">
+      <configuration name="TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCityUsecase_SumPopulations_in_github_com_maiyama18_gomock-playground_usecase - 2019.11.14 at 19h 56m 22s.xml">
+      <configuration name="TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCityUsecase_SumPopulations_in_github_com_maiyama18_gomock-playground_usecase - 2019.11.14 at 19h 56m 38s.xml">
+      <configuration name="TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCityUsecase_SumPopulations_in_github_com_maiyama18_gomock-playground_usecase - 2019.11.15 at 00h 04m 26s.xml">
+      <configuration name="TestCityUsecase_SumPopulations in github.com/maiyama18/gomock-playground/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPersonUsecase_ChangeName_in_github_com_maiyama18_gomock-playground2_usecase - 2019.12.13 at 16h 24m 01s.xml">
+      <configuration name="TestPersonUsecase_ChangeName in github.com/maiyama18/gomock-playground2/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPersonUsecase_ChangeName_in_github_com_maiyama18_gomock-playground2_usecase - 2019.12.13 at 16h 24m 59s.xml">
+      <configuration name="TestPersonUsecase_ChangeName in github.com/maiyama18/gomock-playground2/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPersonUsecase_ChangeName_in_github_com_maiyama18_gomock-playground2_usecase - 2019.12.13 at 16h 26m 46s.xml">
+      <configuration name="TestPersonUsecase_ChangeName in github.com/maiyama18/gomock-playground2/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPersonUsecase_ChangeName_in_github_com_maiyama18_gomock-playground2_usecase - 2019.12.13 at 16h 26m 58s.xml">
+      <configuration name="TestPersonUsecase_ChangeName in github.com/maiyama18/gomock-playground2/usecase" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-27" y="-1057" width="1633" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26838467" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990572" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49968573" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5009428" side_tool="true" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/repository/mock_city.go" />
+    <entry file="file:///usr/local/Cellar/go/1.13/libexec/src/unsafe/unsafe.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="187" column="8" selection-start-line="187" selection-start-column="8" selection-end-line="187" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.13/libexec/src/reflect/type.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23443">
+          <caret line="1379" selection-start-line="1379" selection-end-line="1379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocks/mock_city.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../golang/mock/gomock/controller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../golang/mock/gomock/callset.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/person.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/person.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usecase/person.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usecase/person_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="45" column="95" selection-start-line="45" selection-start-column="95" selection-end-line="45" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
